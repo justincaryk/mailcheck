@@ -10,7 +10,7 @@ Note: The env package isn't currently doing anything, but expanding this stub, i
 
 ### Running
 
-1. 
+1. Spin up
 
 ```bash
 go run main.go
